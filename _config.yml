@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Julian Li"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "My homepage. "
+repository               : "hongfel3/hongfel3.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
