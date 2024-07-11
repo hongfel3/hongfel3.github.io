@@ -28,7 +28,8 @@ Generally speaking, my research interests lie in computer vision and machine lea
 
 
 # 📝 Publications 
-- Jiayi Xie, **Hongfeng Li#**, Shaoyi Su, Jin Cheng, Qingrui Cai, Hanbo Tan, Lingyun Zu, Xiaobo Qu, Hongbin Han. Quantitative analysis of molecular transport in the extracellular space using physics-informed neural network, **Computers in Biology and Medicine**, 171: 108133, 2024.
+- Jiayi Xie#, **Hongfeng Li#**, Shaoyi Su#, Jin Cheng, Qingrui Cai, Hanbo Tan, Lingyun Zu, Xiaobo Qu, Hongbin Han. Quantitative analysis of molecular transport in the extracellular space using physics-informed neural network, **Computers in Biology and Medicine**, 171: 108133, 2024.
+- Yunlong Sun, Jingge Lian, Ze Teng, Ziyi Wei, Yi Tang, Liu Yang, Yajuan Gao, Tianfu Wang, **Hongfeng Li***, Meng Xu*, Baiying Lei*. COVID-19 diagnosis based on swin transformer model with demographic information fusion and enhanced multi-head attention mechanism, **Expert Systems with Applications**, 243: 122805, 2024.
 
 # 🎖 Honors and Awards
 - *2021.10* TBA. 
