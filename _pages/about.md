@@ -19,7 +19,8 @@ redirect_from:
 
 Dr. Li is currently a scientific researcher with the Institute of Medical Technology, Peking University, Beijing, China. He has received the BS degree of Mathematics and Applied Mathematics, and the PhD degree of Computer Software and Theory, both from Huazhong University of Science and Technology, Wuhan, China, in 2010 and 2016, respectively. From September 2014 to September 2015, he was an exchange student in Department of Mathematics, University of California, Irvine, supervised by Prof. Hongkai Zhao. He was a Post-Doctoral with the Beijing International Center for Mathematical Research, Peking University from July 2016 to June 2018.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# Research Interests
+Generally speaking, my research interests lie in computer vision and machine learning. My current research is mainly focused on medical image classification/segmentation, and also includes physics-informed neural network (PINN) for solving a PDE etc.
 
 
 # 🔥 News
