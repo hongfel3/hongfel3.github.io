@@ -28,7 +28,7 @@ Generally speaking, my research interests lie in computer vision and machine lea
 
 
 # 📝 Publications 
-- Jiayi Xie, Hongfeng Li, Shaoyi Su, Jin Cheng, Qingrui Cai, Hanbo Tan, Lingyun Zu, Xiaobo Qu, Hongbin Han. [Quantitative analysis of molecular transport in the extracellular space using physics-informed neural network], Computers in Biology and Medicine, 171: 108133, 2024.
+- Jiayi Xie, **Hongfeng Li#**, Shaoyi Su, Jin Cheng, Qingrui Cai, Hanbo Tan, Lingyun Zu, Xiaobo Qu, Hongbin Han. Quantitative analysis of molecular transport in the extracellular space using physics-informed neural network, **Computers in Biology and Medicine**, 171: 108133, 2024.
 
 # 🎖 Honors and Awards
 - *2021.10* TBA. 
