@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Li is currently a scientific researcher with the Institute of Medical Technology, Peking University, Beijing, China. He has received the BS degree of Mathematics and Applied Mathematics, and the PhD degree of Computer Software and Theory, both from Huazhong University of Science and Technology, Wuhan, China, in 2010 and 2016, respectively. From September 2014 to September 2015, he was an exchange student in Department of Mathematics, University of California, Irvine, supervised by Prof. Hongkai Zhao. He was a Post-Doctoral with the Beijing International Center for Mathematical Research, Peking University from July 2016 to June 2018.
+Dr. Li is currently a scientific researcher with the Institute of Medical Technology, Peking University Health Science Center, Beijing, China. He has received the BS degree of Mathematics and Applied Mathematics, and the PhD degree of Computer Software and Theory, both from Huazhong University of Science and Technology, Wuhan, China, in 2010 and 2016, respectively. From September 2014 to September 2015, he was an exchange student in Department of Mathematics, University of California, Irvine, supervised by Prof. Hongkai Zhao. He was a Post-Doctoral with the Beijing International Center for Mathematical Research, Peking University from July 2016 to June 2018.
 
 Here is my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=QXjosLYAAAAJ&view_op=list_works&sortby=pubdate)
 
