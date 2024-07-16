@@ -37,6 +37,8 @@ Generally speaking, my research interests lie in computer vision and machine lea
 - Yue Zhang, Zifan Chen, Hao Yu, Xinyu Yao, **Hongfeng Li***. Feature fusion for segmentation and classification of skin lesions, **2022 IEEE 19th international symposium on biomedical imaging (ISBI)**, 1-5, 2022.
 - Huizhen Li, Hua Huang, Zhijing Ye, Hongfeng Li, **Hongfeng Li**. Hyperspectral image classification using adaptive weighted quaternion zernike moments, **IEEE Transactions on Signal Processing**, 2022.
 - **Hongfeng Li**, Yini Pan, Jie Zhao, Li Zhang. Skin disease diagnosis with deep learning: A review, **Neurocomputing**, 464: 364-393, 2021.
+- **Hongfeng Li**. Semi-supervised Sparse Representation with Graph Regularization for Image Classification, **arXiv preprint arXiv:2011.05648**, 2020.
+- **Hongfeng Li**, Jian Zhao, Li Zhang, Jie Zhao, Li Yang, Quanzheng Li. Feature pyramid based attention for cervical image classification, **Multiscale Multimodal Medical Imaging: First International Workshop, MMMI 2019, Held in Conjunction with MICCAI 2019, Shenzhen, China, October 13, 2019, Proceedings 1**, 35-42, 2020.
 - **Hongfeng Li**, Hongkai Zhao, Hong Li. Neural-response-based extreme learning machine for image classification, **IEEE transactions on neural networks and learning systems**, 30 (2): 539-552, 2018.
 
 # 🎖 Honors and Awards
