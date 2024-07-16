@@ -19,15 +19,19 @@ redirect_from:
 
 Dr. Li is currently a scientific researcher with the Institute of Medical Technology, Peking University, Beijing, China. He has received the BS degree of Mathematics and Applied Mathematics, and the PhD degree of Computer Software and Theory, both from Huazhong University of Science and Technology, Wuhan, China, in 2010 and 2016, respectively. From September 2014 to September 2015, he was an exchange student in Department of Mathematics, University of California, Irvine, supervised by Prof. Hongkai Zhao. He was a Post-Doctoral with the Beijing International Center for Mathematical Research, Peking University from July 2016 to June 2018.
 
-Here is my google scholar: https://scholar.google.com/citations?hl=zh-CN&user=QXjosLYAAAAJ&view_op=list_works&sortby=pubdate
+Here is my Google Scholar: https://scholar.google.com/citations?hl=zh-CN&user=QXjosLYAAAAJ&view_op=list_works&sortby=pubdate
+[Here is my Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=QXjosLYAAAAJ&view_op=list_works&sortby=pubdate)
 
 # Research Interests
 Generally speaking, my research interests lie in computer vision and machine learning. My current research is mainly focused on medical image classification/segmentation, and also includes physics-informed neural network (PINN) for solving a PDE etc.
 
-
 # 🔥 News
 - *2024.07*: A paper has been accepted. 
 
+# 📖 Educations
+- *2010.09 - 2016.06*, Doctoral degree of Computer Software and Theory, Huazhong University of Science and Technology, Wuhan, Chian.
+- *2014.09 - 2015.09*, Visiting Scholar, Department of Mathematics, University of California, Irvine, USA. 
+- *2006.09 - 2010.06*, Bachelor degree of Mathematics and Applied Mathematics, Huazhong University of Science and Technology, Wuhan, Chian. 
 
 # 📝 Publications 
 - Jiayi Xie#, **Hongfeng Li#**, Shaoyi Su#, Jin Cheng, Qingrui Cai, Hanbo Tan, Lingyun Zu, Xiaobo Qu, Hongbin Han. Quantitative analysis of molecular transport in the extracellular space using physics-informed neural network, **Computers in Biology and Medicine**, 171: 108133, 2024.
@@ -52,16 +56,11 @@ Generally speaking, my research interests lie in computer vision and machine lea
 - Rokan Khaji, Hong Li, **Hongfeng Li**, Rabiu Haruna, Ramadhan Abdo Musleh Alsaidi. Improved combination of RPCA and MEL for sparse representation-based face recognition, **International Journal of Wavelets, Multiresolution and Information Processing**, 12 (03): 1450031, 2014.
 - Rokan Khaji, Hong Li, Ramadan Abdo Musleh, **Hongfeng Li**, Qabas Ali. Collaborative representation for face recognition based on bilateral filtering, **International Journal of Computer Science Issues (IJCSI)**, 10 (2): 397, 2013.
 
-# 🎖 Honors and Awards
-- *2021.10* TBA. 
-
-# 📖 Educations
-- *2010.09 - 2016.06*, Doctoral degree of Computer Software and Theory, Huazhong University of Science and Technology, Wuhan, Chian.
-- *2014.09 - 2015.09*, Visiting Scholar, Department of Mathematics, University of California, Irvine, USA. 
-- *2006.09 - 2010.06*, Bachelor degree of Mathematics and Applied Mathematics, Huazhong University of Science and Technology, Wuhan, Chian. 
-
 # 💬 Invited Talks
 - *2024.07*, TBA. 
+
+# 🎖 Honors and Awards
+- *2021.10* TBA. 
 
 
 # 💻 Internships
