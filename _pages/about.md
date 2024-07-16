@@ -30,6 +30,7 @@ Generally speaking, my research interests lie in computer vision and machine lea
 # 📝 Publications 
 - Jiayi Xie#, **Hongfeng Li#**, Shaoyi Su#, Jin Cheng, Qingrui Cai, Hanbo Tan, Lingyun Zu, Xiaobo Qu, Hongbin Han. Quantitative analysis of molecular transport in the extracellular space using physics-informed neural network, **Computers in Biology and Medicine**, 171: 108133, 2024.
 - Yunlong Sun, Jingge Lian, Ze Teng, Ziyi Wei, Yi Tang, Liu Yang, Yajuan Gao, Tianfu Wang, **Hongfeng Li***, Meng Xu*, Baiying Lei*. COVID-19 diagnosis based on swin transformer model with demographic information fusion and enhanced multi-head attention mechanism, **Expert Systems with Applications**, 243: 122805, 2024.
+- Zifan Chen, Jiazheng Li, Jie Zhao, Yiting Liu, **Hongfeng Li**, Bin Dong, Lei Tang, Li Zhang. propnet: Propagating 2D Annotation to 3D Segmentation for Gastric Tumors on CT Scans, **arXiv preprint arXiv:2305.17871**, 2023.
 - Yue Zhang, Zifan Chen, Hao Yu, Xinyu Yao, **Hongfeng Li***. Feature fusion for segmentation and classification of skin lesions, **2022 IEEE 19th international symposium on biomedical imaging (ISBI)**, 1-5, 2022.
 - Huizhen Li, Hua Huang, Zhijing Ye, Hongfeng Li, **Hongfeng Li**. Hyperspectral image classification using adaptive weighted quaternion zernike moments, **IEEE Transactions on Signal Processing**, 2022.
 - **Hongfeng Li**, Yini Pan, Jie Zhao, Li Zhang. Skin disease diagnosis with deep learning: A review, **Neurocomputing**, 464: 364-393, 2021.
