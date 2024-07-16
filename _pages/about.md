@@ -67,4 +67,5 @@ Generally speaking, my research interests lie in computer vision and machine lea
 - Student Training: Assisted other professors in training 6 graduate students (5 graduated, 1 currently studying).
 
 # Service
+- Member of Magnetic Resonance Imaging Equipment and Technology Committee of China Medical Equipment Association.
 - Reviewer for: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Medical Imaging (TMI), IEEE Transactions on Cybernetics, Artiﬁcial Intelligence Review, Neurocomputing, IEEE Access, Journal of Innovative Optical Health Sciences (JIOHS), AAAI etc.
