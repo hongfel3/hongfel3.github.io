@@ -59,8 +59,7 @@ Generally speaking, my research interests lie in computer vision and machine lea
 - *2024.07*, TBA. 
 
 # 🎖 Honors and Awards
-- *2021.10* TBA. 
+- *2014*, CSC scholarship. 
 
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Service
+- Reviewer for: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Medical Imaging (TMI), IEEE Transactions on Cybernetics, Artiﬁcial Intelligence Review, Neurocomputing, IEEE Access, Journal of Innovative Optical Health Sciences (JIOHS), AAAI etc.
