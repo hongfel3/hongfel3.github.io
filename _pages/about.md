@@ -32,6 +32,8 @@ Generally speaking, my research interests lie in computer vision and machine lea
 - Yunlong Sun, Jingge Lian, Ze Teng, Ziyi Wei, Yi Tang, Liu Yang, Yajuan Gao, Tianfu Wang, **Hongfeng Li***, Meng Xu*, Baiying Lei*. COVID-19 diagnosis based on swin transformer model with demographic information fusion and enhanced multi-head attention mechanism, **Expert Systems with Applications**, 243: 122805, 2024.
 - Zifan Chen, Jiazheng Li, Jie Zhao, Yiting Liu, **Hongfeng Li**, Bin Dong, Lei Tang, Li Zhang. propnet: Propagating 2D Annotation to 3D Segmentation for Gastric Tumors on CT Scans, **arXiv preprint arXiv:2305.17871**, 2023.
 - Xianjie Cai, Qingyuan He, Wei Wang, Chunlin Li, Hui Wang, Feng Yin, Tong Li, Dongsheng Kong, Yanxing Jia, **Hongfeng Li**, Junhao Yan, Xunbin Wei, Qiushi Ren, Yajuan Gao, Shuangfeng Yang, Huaiyu Tong, Yun Peng, Hongbin Han. Epidural pulsation accelerates the drainage of brain interstitial fluid, **Aging and Disease**, 14 (1): 219, 2023.
+- 周洁, 连婧阁, 任秋实, 王卉, 孔东生, 王伟, 刘会坡, **李宏锋**, 程晋, 韩鸿宾. 磁示踪法在硬膜外动脉贴敷术加速丘脑组织间液引流机制研究中的应用, **磁共振成像**, 14 (2): 97-102, 2023.
+- 秦志明， 揭伟萍， 池彦廷， **李宏锋***， 李斌斌*. 基于局部可变阈值的无监督定量 Ki-67 细胞增殖指数模型的初步建立, **上海口腔医学**, 31 (3): 248, 2022.
 - Yue Zhang, Zifan Chen, Hao Yu, Xinyu Yao, **Hongfeng Li***. Feature fusion for segmentation and classification of skin lesions, **2022 IEEE 19th international symposium on biomedical imaging (ISBI)**, 1-5, 2022.
 - Huizhen Li, Hua Huang, Zhijing Ye, Hongfeng Li, **Hongfeng Li**. Hyperspectral image classification using adaptive weighted quaternion zernike moments, **IEEE Transactions on Signal Processing**, 2022.
 - **Hongfeng Li**, Yini Pan, Jie Zhao, Li Zhang. Skin disease diagnosis with deep learning: A review, **Neurocomputing**, 464: 364-393, 2021.
