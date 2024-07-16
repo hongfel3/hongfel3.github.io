@@ -59,7 +59,12 @@ Generally speaking, my research interests lie in computer vision and machine lea
 - *2024.07*, TBA. 
 
 # 🎖 Honors and Awards
-- *2014*, CSC scholarship. 
+- *2014*, CSC scholarship.
+
+# Teaching
+- Undergraduate: Linear Algebra, Numerical Analysis, Introduction to Medical Technology (Part: Image Processing Based on Artificial Intelligence).
+- Graduate: General Introduction to Medical Technology (Part: Health and Medical Data Integration and Application), Medical Imaging Technology (Part: PACS).
+- Student Training: Assisted other professors in training 6 graduate students (5 graduated, 1 currently studying).
 
 # 💻 Service
 - Reviewer for: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Medical Imaging (TMI), IEEE Transactions on Cybernetics, Artiﬁcial Intelligence Review, Neurocomputing, IEEE Access, Journal of Innovative Optical Health Sciences (JIOHS), AAAI etc.
