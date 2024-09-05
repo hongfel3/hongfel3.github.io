@@ -25,7 +25,7 @@ Here is my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=Q
 Generally speaking, my research interests lie in computer vision and machine learning. My current research is mainly focused on medical image classification/segmentation, and also includes physics-informed neural network (PINN) for solving a PDE etc.
 
 # 🔥 News
-- *2024.07*: A paper has been accepted. 
+- *2024.07*: A paper entitled "A review on measurement and imaging of diffusion in brain extracellular space" has been accepted by ICSI 2024.
 
 # Educations
 - *2010.09 - 2016.06*, Doctoral degree of Computer Software and Theory, Huazhong University of Science and Technology, Wuhan, Chian.
@@ -33,6 +33,7 @@ Generally speaking, my research interests lie in computer vision and machine lea
 - *2006.09 - 2010.06*, Bachelor degree of Mathematics and Applied Mathematics, Huazhong University of Science and Technology, Wuhan, Chian. 
 
 # Publications 
+- Hanbo Tan, Jiayu Wang, Yi Tang, Xin Mao, **Hongfeng Li** and Hongbin Han. A review on measurement and imaging of diffusion in brain extracellular space, **International Conference on Sensing and Imaging (ICSI)**, 2024.
 - Jiayi Xie#, **Hongfeng Li#**, Shaoyi Su#, Jin Cheng, Qingrui Cai, Hanbo Tan, Lingyun Zu, Xiaobo Qu, Hongbin Han. Quantitative analysis of molecular transport in the extracellular space using physics-informed neural network, **Computers in Biology and Medicine**, 171: 108133, 2024.
 - Yunlong Sun, Jingge Lian, Ze Teng, Ziyi Wei, Yi Tang, Liu Yang, Yajuan Gao, Tianfu Wang, **Hongfeng Li***, Meng Xu*, Baiying Lei*. COVID-19 diagnosis based on swin transformer model with demographic information fusion and enhanced multi-head attention mechanism, **Expert Systems with Applications**, 243: 122805, 2024.
 - Zifan Chen, Jiazheng Li, Jie Zhao, Yiting Liu, **Hongfeng Li**, Bin Dong, Lei Tang, Li Zhang. propnet: Propagating 2D Annotation to 3D Segmentation for Gastric Tumors on CT Scans, **arXiv preprint arXiv:2305.17871**, 2023.
